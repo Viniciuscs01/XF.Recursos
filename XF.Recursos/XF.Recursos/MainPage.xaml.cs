@@ -73,5 +73,25 @@ namespace XF.Recursos
         {
             await Navigation.PushAsync(new GPS.CoordenadaView());
         }
+
+        private async void btnEtiqueta_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Lista.ListaEtiquetaView());
+        }
+
+        private async void btnMestre_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Menu.MainPage());
+        }
+
+        private async void btnCustom_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CustomControl.CustomView());
+        }
+
+        private async void btnLigar_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new API.PhoneView());
+        }
     }
 }

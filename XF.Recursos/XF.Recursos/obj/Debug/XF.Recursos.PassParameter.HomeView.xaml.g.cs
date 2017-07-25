@@ -11,8 +11,8 @@
 namespace XF.Recursos.PassParameter {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos\\Pass" +
-        "Parameter\\HomeView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos\\PassParam" +
+        "eter\\HomeView.xaml")]
     public partial class HomeView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

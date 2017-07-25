@@ -11,8 +11,7 @@
 namespace XF.Recursos {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos\\App." +
-        "xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

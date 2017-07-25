@@ -11,8 +11,8 @@
 namespace XF.Recursos.Lista {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos\\List" +
-        "a\\ClasseView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos\\Lista\\Cla" +
+        "sseView.xaml")]
     public partial class ClasseView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

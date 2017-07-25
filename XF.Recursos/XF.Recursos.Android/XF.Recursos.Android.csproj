@@ -99,7 +99,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FiapBoxViewRenderer.cs" />
+    <Compile Include="FiapButtonRenderer.cs" />
     <Compile Include="GeoLocation_Android.cs" />
+    <Compile Include="Ligar_Android.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -129,6 +132,12 @@
       <Project>{405c2f97-00f6-4e7c-a9a3-5fd4c6d08de9}</Project>
       <Name>XF.Recursos</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Engine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Home.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

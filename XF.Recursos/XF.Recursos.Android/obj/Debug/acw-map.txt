@@ -1,3 +1,11 @@
+XF.Recursos.Droid.FiapBoxViewRenderer, XF.Recursos.Android;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapBoxViewRenderer
+XF.Recursos.Droid.FiapBoxViewRenderer, XF.Recursos.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapBoxViewRenderer
+XF.Recursos.Droid.FiapBoxViewRenderer;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapBoxViewRenderer
+xf.recursos.droid.FiapBoxViewRenderer;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapBoxViewRenderer
+XF.Recursos.Droid.FiapButtonRenderer, XF.Recursos.Android;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapButtonRenderer
+XF.Recursos.Droid.FiapButtonRenderer, XF.Recursos.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapButtonRenderer
+XF.Recursos.Droid.FiapButtonRenderer;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapButtonRenderer
+xf.recursos.droid.FiapButtonRenderer;md5ee710abd4c2fbb17e7199fe6f99120e0.FiapButtonRenderer
 XF.Recursos.Droid.MainActivity, XF.Recursos.Android;md5ee710abd4c2fbb17e7199fe6f99120e0.MainActivity
 XF.Recursos.Droid.MainActivity, XF.Recursos.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee710abd4c2fbb17e7199fe6f99120e0.MainActivity
 XF.Recursos.Droid.MainActivity;md5ee710abd4c2fbb17e7199fe6f99120e0.MainActivity

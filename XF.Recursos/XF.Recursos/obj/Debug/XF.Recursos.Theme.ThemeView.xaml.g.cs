@@ -11,8 +11,8 @@
 namespace XF.Recursos.Theme {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos\\Them" +
-        "e\\ThemeView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos\\Theme\\The" +
+        "meView.xaml")]
     public partial class ThemeView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

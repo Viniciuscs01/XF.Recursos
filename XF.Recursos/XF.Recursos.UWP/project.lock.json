@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
       "projectName": "XF.Recursos.UWP",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos.UWP\\project.json",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Downloads\\XF.Recursos_Modulo3\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\XF.Recursos\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj"
             }
           }
         }

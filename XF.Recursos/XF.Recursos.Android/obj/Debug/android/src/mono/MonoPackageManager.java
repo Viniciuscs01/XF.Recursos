@@ -114,6 +114,9 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Xaml.dll",
 		"Xamarin.Mobile.dll",
 		"XF.Recursos.dll",
+		"Microsoft.Azure.Mobile.Analytics.dll",
+		"Microsoft.Azure.Mobile.dll",
+		"Microsoft.Azure.Mobile.Crashes.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
