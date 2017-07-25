@@ -41,8 +41,8 @@ C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debu
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.CustomControl.CustomView.xaml.g.cs
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.dll
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.pdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.API.PhoneView.xaml.g.cs
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.CustomControl.CameraView.xaml.g.cs

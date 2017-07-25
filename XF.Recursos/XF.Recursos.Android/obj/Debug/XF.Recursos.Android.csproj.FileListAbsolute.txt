@@ -45,14 +45,6 @@ C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\res\drawable\home.png
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\R.cs.flag
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\uploadflags.txt
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.Android.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\XF.Recursos.Android.dll.mdb
-C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\XF.Recursos.dll.mdb
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
 C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.Android\bin\Debug\Microsoft.Azure.Mobile.dll

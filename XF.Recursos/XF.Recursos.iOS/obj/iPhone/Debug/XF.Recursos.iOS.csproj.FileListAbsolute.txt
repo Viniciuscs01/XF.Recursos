@@ -1,0 +1,5 @@
+C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Administrator\Source\Repos\XF.Recursos\XF.Recursos\XF.Recursos.iOS\obj\iPhone\Debug\XF.Recursos.iOS.csprojResolveAssemblyReference.cache
